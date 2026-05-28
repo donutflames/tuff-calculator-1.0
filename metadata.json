@@ -1,0 +1,6 @@
+{
+  "name": "pay 2 math",
+  "description": "a satirical microtransaction-centered calculator simulator game containing chaotic internet culture meme humor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
